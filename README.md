@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manish-mulchandani" alt="manish-mulchandani" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/manish9730" target="blank"><img src="https://img.shields.io/twitter/follow/manish9730?logo=twitter&style=for-the-badge" alt="manish9730" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Manishxtwt" target="blank"><img src="https://img.shields.io/twitter/follow/Manishxtwt?logo=twitter&style=for-the-badge" alt="Manishxtwt" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Development & Cross-Platform Development**
 
@@ -15,11 +15,11 @@
 
 - 📫 How to reach me **manishm9730@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1e7SNAJ03jAfKx0nCqONTcnYM9ikS-TnF/view?usp=sharing](https://drive.google.com/file/d/1e7SNAJ03jAfKx0nCqONTcnYM9ikS-TnF/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1E7KvTw2wiicJCCHACFpMmlHl-BhIKGoh/view](https://drive.google.com/file/d/1E7KvTw2wiicJCCHACFpMmlHl-BhIKGoh/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/manish9730" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manish9730" height="30" width="40" /></a>
+<a href="https://twitter.com/Manishxtwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Manishxtwt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/manish-mulchandani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manish-mulchandani" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/manish002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="manish002" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/manishm9730" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manishm9730" height="30" width="40" /></a>
