@@ -1,4 +1,3 @@
-![MasterHead](https://raw.githubusercontent.com/prafful98/prafful98/master/banner.png)
 <h1 align="center">Hi 👋, I'm Manish Mulchandani</h1>
 <h3 align="center">Navigating the Code Maze with Curiosity and Coffee</h3>
 
